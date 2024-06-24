@@ -23,6 +23,7 @@ header .container {
   height: 176px;
   border-radius: 50%;
   object-fit: cover;
+  aspect-ratio: 1 / 1;
 }
 
 #profile h1 {
